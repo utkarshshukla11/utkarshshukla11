@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Shukla</h1>
-<h3 align="center">🚀 Senior Software Engineer | Data Engineering Enthusiast | AI & Cloud Explorer | Full Stack Python Developer | Web Development -React JS</h3>
+<h3 align="center">🚀 Senior Software Engineer | Data Engineering Enthusiast | AI & Cloud Explorer | Full Stack Python Developer | Web Development - React JS</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
